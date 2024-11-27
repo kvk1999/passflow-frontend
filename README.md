@@ -15,15 +15,15 @@
 ### 🔖Endpoints
 
 ###  ➡️ Login User
-### URL - 
+### URL - https://passflow.netlify.app/Login-user
 
 ### ➡️ Register User
-### URL - 
+### URL - https://passflow.netlify.app/register-user
 
 ### ➡️ Forgot Password
-### URL - 
+### URL - https://passflow.netlify.app/forgot-password
 
 ### ➡️ Reset Password
-### URL - 
+### URL - https://passflow.netlify.app/reset-password/:id/:token
 
-## BASE URL - 
+## BASE URL - https://passflow.netlify.app/
